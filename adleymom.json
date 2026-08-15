@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083559284076",
+    "project_id": "incoming-call-a-for-adley-mom",
+    "storage_bucket": "incoming-call-a-for-adley-mom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083559284076:android:990eab8d2435fa6a31b749",
+        "android_client_info": {
+          "package_name": "com.Adley.For.Call.Video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnp-Avk4mdArxBMMkgxC7XauA2JYCtqLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
