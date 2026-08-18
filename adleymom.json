@@ -30,9 +30,9 @@
     "AdPlacement": {
 
       "AdMobBanner"        : "",
-      "AdMobInterstitial"  : "",
+      "AdMobInterstitial"  : "ca-app-pub-5326172945592917/9041621151",
       "AdMobInterstitialSP": "",
-      "AdMobNative"        : "",
+      "AdMobNative"        : "ca-app-pub-5326172945592917/4040575914",
       "AdMobReward"        : "",
       "AdMobOpenAd"        : "",
 
